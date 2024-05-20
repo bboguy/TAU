@@ -1,0 +1,5 @@
+*.slxc
+.DS_Store
+slprj/
+~$*
+*.docx
